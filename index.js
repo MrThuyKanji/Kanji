@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
 });
 
 
-const statusMessages = ["👑 I'm Kanji Thụy 👑","👑 Commissioner - Johnny Jeffrey 👑", "🏢 UNIFIED POLICE DEPARTMENT 🏢", "🚓 LOS SANTOS POLICE DEPARTMENT 🚓","🚨 TO PROTECT AND TO SERVE 🚨","❤️ Love Coconut ❤️", "🛠️ Nhận setup Discord & PD theo yêu cầu 🛠️", "📞 Contact Discord: thuyalwayssmiles93 📞"];
+const statusMessages = ["👑I'm Thụy Phùng👑","👑Johnny Jeffrey👑", "🏢UNIFIED POLICE DEPARTMENT🏢", "🏜️BLAINE COUNTY SHERIFF'S OFFICE🏜️","🚨TO PROTECT AND TO SERVE🚨","❤️Love Coconut❤️", "🛠️Nhận setup Discord & PD theo yêu cầu🛠️", "📞Contact Discord: thuyalwayssmiles93📞"];
 
 
 let currentIndex = 0;
